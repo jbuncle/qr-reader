@@ -1,0 +1,17 @@
+{
+  "name": "qr-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "jsqr": "^1.4.0",
+    "node-webcam": "^0.8.1"
+  }
+}
